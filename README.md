@@ -13,7 +13,8 @@
 
 [![http://www.twitter.com/jbaculedev](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/light/twitter-x.svg)](http://www.twitter.com/jbaculedev)
 [![https://www.linkedin.com/in/jbacule/](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/light/linkedin.svg)](https://www.linkedin.com/in/jbacule/)
-[![http://www.twitter.com/jbaculedev](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/light/twitter-x.svg)](http://www.twitter.com/jbaculedev)
+
+<a href="http://www.twitter.com/jbaculedev" target="_blank" title="http://www.twitter.com/jbaculedev">![GitHub Logo](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/light/twitter-x.svg)</a>
 
 #### Languages and Tech Stacks
 
