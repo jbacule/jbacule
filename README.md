@@ -1,10 +1,5 @@
 ## Hi there 👋
 
-<!--
-**jbacule/jbacule** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -13,4 +8,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+#### Languages and Tech Stacks
+
+<p align="left">
+	<img height="30" src="https://cdn.simpleicons.org/javascript?viewbox=auto" />
+	<img height="30" src="https://cdn.simpleicons.org/typescript?viewbox=auto" />
+	<img height="30" src="https://cdn.simpleicons.org/react?viewbox=auto" />
+	<img height="30" src="https://cdn.simpleicons.org/next.js/000000/ffffff?viewbox=auto" />
+	<img height="30" src="https://cdn.simpleicons.org/vue.js?viewbox=auto" />
+	<img height="30" src="https://cdn.simpleicons.org/nuxt.js?viewbox=auto" />
+</p>
