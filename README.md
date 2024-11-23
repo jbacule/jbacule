@@ -9,13 +9,19 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+#### Socials
+
+[![http://www.twitter.com/jbaculedev](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/light/twitter-x.svg)](http://www.twitter.com/jbaculedev)
+[![https://www.linkedin.com/in/jbacule/](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/light/linkedin.svg)](https://www.linkedin.com/in/jbacule/)
+[![http://www.twitter.com/jbaculedev](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/light/twitter-x.svg)](http://www.twitter.com/jbaculedev)
+
 #### Languages and Tech Stacks
 
 <p align="left">
-	<img height="30" src="https://cdn.simpleicons.org/javascript?viewbox=auto" />
-	<img height="30" src="https://cdn.simpleicons.org/typescript?viewbox=auto" />
-	<img height="30" src="https://cdn.simpleicons.org/react?viewbox=auto" />
-	<img height="30" src="https://cdn.simpleicons.org/next.js/000000/ffffff?viewbox=auto" />
-	<img height="30" src="https://cdn.simpleicons.org/vue.js?viewbox=auto" />
-	<img height="30" src="https://cdn.simpleicons.org/nuxt.js?viewbox=auto" />
+	<img height="20" src="https://cdn.simpleicons.org/javascript/000000/ffffff?viewbox=auto" title="javascript" />
+	<img height="20" src="https://cdn.simpleicons.org/typescript/000000/ffffff?viewbox=auto" title="typescript" />
+	<img height="20" src="https://cdn.simpleicons.org/react/000000/ffffff?viewbox=auto" title="reactjs" />
+	<img height="20" src="https://cdn.simpleicons.org/next.js/000000/ffffff?viewbox=auto" title="nextjs" />
+	<img height="20" src="https://cdn.simpleicons.org/vue.js/000000/ffffff?viewbox=auto" title="vuejs" />
+	<img height="20" src="https://cdn.simpleicons.org/nuxt.js/000000/ffffff?viewbox=auto" title="nuxtjs" />
 </p>
