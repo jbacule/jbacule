@@ -10,6 +10,10 @@ I build web and mobile products for healthcare, fintech and operations teams, wi
 - 📱 **Mobile App Development**: cross-platform apps with React Native
 - 🌐 **Web Development**: TypeScript, React, Node.js and Astro
 
+## GitHub Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=jbacule&theme=transparent&hide_border=true)](https://git.io/streak-stats)
+
 ## Connect with Me
 
 [![Website](https://img.shields.io/badge/Website-jbacule.com-000?style=flat&logo=googlechrome&logoColor=white)](https://jbacule.com)
