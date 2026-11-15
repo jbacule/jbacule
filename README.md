@@ -18,4 +18,3 @@ I build web and mobile products for healthcare, fintech and operations teams, wi
 
 [![Website](https://img.shields.io/badge/Website-jbacule.com-000?style=flat&logo=googlechrome&logoColor=white)](https://jbacule.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jbacule-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/jbacule)
-[![Email](https://img.shields.io/badge/Email-joshuebacule12%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:joshuebacule12@gmail.com)
